@@ -1,0 +1,4 @@
+name = "LiDARTools"
+uuid = "d2258d4e-d180-499c-aa0a-7ba1f6d7c2be"
+authors = ["Hugo Carlos Mtz <hcarlos@centrogeo.edu.mx>"]
+version = "0.1.0"
